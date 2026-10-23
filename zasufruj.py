@@ -10,4 +10,5 @@ def cesarova_sifra(text,posun):
         else:
             vysledek += znak           
     return vysledek
+print(cesarova_sifra("ahoj svete",3))
 
